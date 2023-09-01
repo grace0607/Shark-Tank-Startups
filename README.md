@@ -1,4 +1,6 @@
 # Will I be Disadvantaged as a Female Startup Founder? Here are Some Suggestions from Shark Tank US Data Over the Years
+*Click [here](https://github.com/grace0607/Shark-Tank-Startups/blob/main/Shark_Tank_Startups.ipynb) to check out the full project in this repository!*
+
 Ever had a brilliant business idea that got you all excited about founding a startup of your own? Thought about pitching your idea on Shark Tank or to potential investors? Particularly for female-identifying folks, did you ever feel that you were at a disadvantage compared to your male counterparts?
 
 For those of you who haven't heard about [Shark Tank](https://abc.com/shows/shark-tank), it's a US TV series that brings startup founders together to pitch their businesses to a panel of five investors or "sharks", who decide whether to invest in their companies.
