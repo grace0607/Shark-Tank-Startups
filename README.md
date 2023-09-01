@@ -23,4 +23,4 @@ However, I hypothesize that there will NOT be a difference in the original/reque
 Perhaps female contestants end up settling for less favorable deals because they negotiate less agressively than their male counterparts.
 
 ## The Data
-I use a Shark Tank US dataset that has data from season 1 to season 12. It contains information about the startup, industry, entrepreneur's name, gender, city as well as deal statistics such as original and final deal amount ( ),dealequity( ). It also contains information about amount invested per "shark" (or judge) among many others. The dataset contains 52 columns and 1006 rows.
+I use a Shark Tank US dataset that has data from season 1 to season 12. It contains information about the startup, industry, entrepreneur's name, gender, city as well as deal statistics such as original and final deal amount, deal equity etc. It also contains information about amount invested per "shark" (or judge) among many others. The dataset contains 52 columns and 1006 rows.
